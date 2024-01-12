@@ -1,12 +1,15 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Kelvin Zussa
+-Profissão: Analista de Serviços
+-Cidade: Curiitba
+-O que faz nas horas vaga:Corrida, assisto filmes e séries.
+-Feedback sobre o curso Qualidade de Software: Estou adorando, aulas ótimos e os exércios são perfeitos para fixação.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma de fácil acesso, bem intuitiva, não tive nenhum problema.
 
 Obrigado!!!
+
+
+
 
 
